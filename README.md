@@ -17,7 +17,7 @@ Mobile Dev learner!
 </p>
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Mobile Developer. </br>
+    - :keyboard: I’m currently learning Mobile Development. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:danendracool08@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
