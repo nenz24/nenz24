@@ -21,10 +21,12 @@ Mobile Dev learner!
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:danendracool08@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
-    - :game_die: Drawing and writing are part of me. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.instagram.com/danendra.syh?igsh=d3h1NTB4dXdyYXk4&utm_source=qr" Instagram>
   <img align="left" alt="Danendra's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://www.linkedin.com/in/danendra-darmawansyah-62ab82241" Linkedin>
+  <img align="left" alt="Danendra's Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
