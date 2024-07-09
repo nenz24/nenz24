@@ -10,7 +10,7 @@ Mobile Dev learner!
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Android%20Dev%20Apps-Android_Studio-blue%3Flogo%3Dandroid_studio%26logocolor%3Dblue?logo=Android%20Studio"/>
+  <img src="https://img.shields.io/badge/Android%20Dev%20App-Android_Studio-blue%3Flogo%3Dandroid_studio%26logocolor%3Dblue?logo=Android%20Studio"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/IOS%20Dev%20App-XCode-blue?logo=Xcode"/>
