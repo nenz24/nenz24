@@ -17,7 +17,6 @@ Mobile Dev learner!
 </p>
 <summary><strong>Stats:</strong></summary>
 <p>
-    ### Stats:
     - :keyboard: I’m currently learning Swift, Flutter, Kotlin, and Python. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:danendracool08@gmail.com">Email me!</a>  </br>
