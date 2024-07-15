@@ -15,7 +15,7 @@ Mobile Dev learner!
 <p>
   <img src="https://img.shields.io/badge/XCode-blue?logo=Xcode&logoColor=white"/>
 </p>
-### <summary><strong>Yosh!</strong></summary>
+<summary><strong>Stats:</strong></summary>
 <details>
     <summary><strong>What i am learning on these days</strong></summary>
     - :keyboard: I’m currently learning Swift, Flutter, Kotlin, and Python. </br>
