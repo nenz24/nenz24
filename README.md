@@ -10,10 +10,10 @@ Mobile Dev learner!
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Android_Studio-blue%3Flogo%3Dandroid_studio%26logocolor%3Dblue?logo=Android%20Studio&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Android_Studio-blue%3Flogo%3Dandroid_studio%26logocolor%3Dblue?logo=Android%20Studio&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/XCode-White?logo=Xcode"/>
+  <img src="https://img.shields.io/badge/XCode-blue?logo=Xcode&logoColor=white"/>
 </p>
 ### <summary><strong>Yosh!</strong></summary>
 <p>
