@@ -16,12 +16,17 @@ Mobile Dev learner!
   <img src="https://img.shields.io/badge/XCode-blue?logo=Xcode&logoColor=white"/>
 </p>
 ### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Mobile Development. </br>
+<details>
+    <summary><strong>What i am learning on these days</strong></summary>
+    - :keyboard: I’m currently learning Swift, Flutter, Kotlin, and Python. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:danendracool08@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
+</details>
 <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenz24&layout=compact" height=180 />
+</p>
+
 
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.instagram.com/danendra.syh?igsh=d3h1NTB4dXdyYXk4&utm_source=qr" Instagram>
