@@ -13,7 +13,7 @@ Mobile Dev learner!
   <img src="https://img.shields.io/badge/Android_Studio-blue%3Flogo%3Dandroid_studio%26logocolor%3Dblue?logo=Android%20Studio"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/XCode-blue?logo=Xcode"/>
+  <img src="https://img.shields.io/badge/XCode-White?logo=Xcode"/>
 </p>
 ### <summary><strong>Yosh!</strong></summary>
 <p>
