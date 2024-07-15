@@ -21,7 +21,7 @@ Mobile Dev learner!
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:danendracool08@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
-    - ⚡ Fun fact: ... </br>
+    - ⚡ Fun fact: ... </br> 
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenz24&layout=compact" height=180 />
