@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me: <a href="danendracool08@gmail.com">**Email me!** </a>
+- 📫 How to reach me: <a href="mailto:danendracool08@gmail.com">**Email me!** </a>
 
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1_uVZlFtz0ufWQkTQVtq-X2fhChcI7tGM/view?usp=sharing">**Curriculum Vitae**</a>
 
