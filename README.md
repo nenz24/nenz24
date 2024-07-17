@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nenz24&" alt="nenz24" /></p>
 
 
-<h3Let's connect!</h3>
+<h3>Let's connect!</h3>
 <a href="https://www.instagram.com/danendra.syh?igsh=d3h1NTB4dXdyYXk4&utm_source=qr" Instagram>
   <img align="left" alt="Danendra's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
