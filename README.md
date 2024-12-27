@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Anything**
 
