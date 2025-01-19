@@ -31,22 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nenz24&" alt="nenz24" /></p>
 
-name: Work Stats Readme
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: nenz24/nenz24-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ waka_49840828-b6b0-4f9f-b0e6-83c51a976fdd }}
-
 
 <h3>Let's connect!</h3>
 <a href="https://www.instagram.com/danendra.syh?igsh=d3h1NTB4dXdyYXk4&utm_source=qr" Instagram>
