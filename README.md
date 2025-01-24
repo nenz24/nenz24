@@ -12,7 +12,6 @@
 
 - 📫 How to reach me: <a href="mailto:danendracool08@gmail.com">**Email me!** </a>
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1_uVZlFtz0ufWQkTQVtq-X2fhChcI7tGM/view?usp=sharing">**Curriculum Vitae**</a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
