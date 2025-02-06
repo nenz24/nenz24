@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Clean Architecture**
 
 - 💬 Ask me about **Anything**
 
