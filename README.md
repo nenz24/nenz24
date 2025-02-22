@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nenz24&" alt="nenz24" /></p>
 
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c9bcfdfa-1b92-4f66-a2fb-5b48345b03e8/a3f1c368-a826-4141-9a6b-d9f3ee6855a5.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c9bcfdfa-1b92-4f66-a2fb-5b48345b03e8/a3f1c368-a826-4141-9a6b-d9f3ee6855a5.png" alt="Waka" width="500" height="300" /></a>
 <!--END_SECTION:waka-->
 
 
