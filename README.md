@@ -14,19 +14,6 @@
 
 - 📫 How to reach me: <a href="mailto:danendracool08@gmail.com">**Email me!** </a>
 
-
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Android_Studio-blue%3Flogo%3Dandroid_studio%26logocolor%3Dblue?logo=Android%20Studio&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/XCode-blue?logo=Xcode&logoColor=white"/>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nenz24&show_icons=true&locale=en&layout=compact" alt="nenz24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nenz24&" alt="nenz24" /></p>
