@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     
-- 🌱 I’m currently learning **Flutter and Clean Architecture**
+- 🌱 I’m currently learning **AI/ML and Swift**
 
 - 💬 Ask me about **Anything**
 
