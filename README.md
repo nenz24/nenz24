@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1fb6ff&height=170&section=header&text=Danendra%20Darmawansyah&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=iOS%20Developer%20%E2%80%A2%20On-device%20Machine%20Learning&descSize=16&descAlignY=58" alt="Danendra Darmawansyah" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1fb6ff&height=170&section=header&text=Danendra%20Darmawansyah&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=iOS%20Developer%20%E2%80%A2%20Machine%20Learning%20Enthusiast&descSize=16&descAlignY=58" alt="Danendra Darmawansyah" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=560&lines=Building+iOS+apps+with+Swift+%26+SwiftUI;Running+ML+models+offline+on+iPhone+with+Core+ML;Fine-tuning+music+AI+for+worship+songs;Based+in+Bali%2C+Indonesia" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=560&lines=iOS+Developer;Swift+%26+SwiftUI;On-device+Machine+Learning;Based+in+Bali%2C+Indonesia" alt="Typing intro" />
   </a>
 </p>
 
@@ -19,37 +19,12 @@
 
 ### 👋 About me
 
-I'm a mobile developer from **Bali, Indonesia**, focused on **iOS** and on bringing **machine learning to the device**: models that run offline, fast and private on an iPhone.
+I'm a mobile developer from **Bali, Indonesia** who enjoys building clean, reliable iOS apps and exploring how machine learning can make them smarter.
 
-- 🎸 Building **Lyra (SongMap)**, an iOS app that turns a song into a band chart: sections, beats, chords and lyrics, analysed on the iPhone.
-- 🧠 Fine-tuning and compressing **music structure models** so they fit and run on a phone.
-- 🌱 Currently learning more **AI/ML** and **Swift**.
-- 💬 Ask me about **iOS, SwiftUI, Core ML or on-device ML**.
-
-### 🚀 Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎵 Lyra · SongMap <sub>(iOS app, private)</sub></h4>
-      <p>Import a song and get a playable band chart: song sections, beat grid, chords and lyrics, all computed on the iPhone.</p>
-      <ul>
-        <li>On-device pipeline: Apple MusicUnderstanding, Beat This!, SongFormer, Whisper</li>
-        <li>Large models delivered as Apple-hosted <b>Background Assets</b> packs</li>
-        <li>SwiftUI · Core ML · AVFoundation · CloudKit</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧩 <a href="https://github.com/nenz24/SongStruct-Models">SongStruct-Models</a></h4>
-      <p>Worship-song section labelling (intro, verse, chorus, bridge…): annotation tool, fine-tuning, Core ML export and iPhone deployment.</p>
-      <ul>
-        <li><b>81.4%</b> section accuracy on a locked test set</li>
-        <li><b>6-bit</b> palettized weights, ~<b>55%</b> smaller label models</li>
-        <li>~<b>2.2× faster</b> on iPhone after removing a whole encoder</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 📱 Building iOS apps with **Swift** and **SwiftUI**
+- 🧠 Exploring **on-device machine learning** with Core ML
+- 🌱 Always learning, currently diving deeper into **AI/ML**
+- 🤝 Open to collaboration and new opportunities
 
 ### 🛠️ Tech stack
 
