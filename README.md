@@ -28,32 +28,28 @@ I'm a mobile developer from **Bali, Indonesia** who enjoys building clean, relia
 
 ### 🚀 Featured work
 
-#### 🎵 Lyra &nbsp;<sub>iOS app · private</sub>
-An iOS app that helps worship and church bands prepare songs faster. Import a song and Lyra builds a clear, playable chart for the whole band.
-
-- **On-device song analysis:** song sections, beat grid, chords and lyrics, computed offline on the iPhone
-- **Band-ready tools:** editable chord charts and sections, instrument previews, stem mixing and shared setlists
-- **Built to scale:** large ML models downloaded on demand with Apple-hosted Background Assets, and automated TestFlight delivery
-
-<sub>Swift · SwiftUI · Core ML · AVFoundation · CloudKit · GitHub Actions</sub>
-
-#### 🧩 [SongStruct-Models](https://github.com/nenz24/SongStruct-Models)
-End-to-end research on recognising song structure (intro, verse, chorus, bridge…), from data collection to a model running on iPhone.
-
-- **Data:** a collaborative web tool for annotating song sections, with review and export
-- **Model:** fine-tuned SongFormer on worship music, plus a context model that labels each section using the whole song
-- **Deployment:** 6-bit compression and Core ML export, making the model about **55% smaller** and **2× faster** on iPhone with no loss in accuracy (**81%** on a held-out test set)
-
-<sub>Python · PyTorch · Core ML · coremltools · Jupyter</sub>
-
-#### 🥁 [StemsGenerating-Models](https://github.com/nenz24/StemsGenerating-Models)
-Generative AI that turns a single recording into a full backing band: a piano recording becomes guitar, bass and drums.
-
-- **Generation:** builds on a pretrained music diffusion model (ACE-Step) to create accompanying stems that follow the original recording
-- **Whole songs:** long-form generation in chunks while keeping each instrument's sound consistent
-- **On iPhone:** porting the diffusion pipeline to run natively on iOS, validated stage by stage on device
-
-<sub>Python · PyTorch · Diffusion models · On-device AI</sub>
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🎵<br/>Lyra</h3>
+      <sub><b>iOS app</b></sub>
+      <p>Turns any song into a clear, playable chart for the whole band, right on the iPhone.</p>
+      <sub>Swift · SwiftUI · Core ML</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🧩<br/><a href="https://github.com/nenz24/SongStruct-Models">SongStruct-Models</a></h3>
+      <sub><b>Music AI research</b></sub>
+      <p>Song structure analysis, from data annotation and training to models that run on mobile.</p>
+      <sub>Python · PyTorch · Core ML</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🥁<br/><a href="https://github.com/nenz24/StemsGenerating-Models">StemsGenerating-Models</a></h3>
+      <sub><b>Generative AI</b></sub>
+      <p>Generates bass, drums and guitar accompaniment from a single recording.</p>
+      <sub>Python · PyTorch · On-device AI</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech stack
 
