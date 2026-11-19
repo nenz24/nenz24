@@ -30,15 +30,20 @@ I'm a mobile developer from **Bali, Indonesia** who enjoys building clean, relia
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🎵 Lyra <sub>· iOS app</sub></h4>
       <p>An iOS app that helps bands prepare songs faster, turning music into clear, playable charts with on-device intelligence.</p>
       <p><sub>Swift · SwiftUI · Core ML</sub></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🧩 <a href="https://github.com/nenz24/SongStruct-Models">SongStruct-Models</a></h4>
       <p>Research and tooling for music structure analysis, from data annotation and model training to deployment on mobile devices.</p>
       <p><sub>Python · PyTorch · Core ML</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🥁 <a href="https://github.com/nenz24/StemsGenerating-Models">StemsGenerating-Models</a></h4>
+      <p>Generative AI that creates accompanying instrument stems, such as bass, drums and guitar, from a single recording, with work toward running it fully on iPhone.</p>
+      <p><sub>Python · PyTorch · On-device AI</sub></p>
     </td>
   </tr>
 </table>
