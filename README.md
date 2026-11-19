@@ -26,6 +26,23 @@ I'm a mobile developer from **Bali, Indonesia** who enjoys building clean, relia
 - 🌱 Always learning, currently diving deeper into **AI/ML**
 - 🤝 Open to collaboration and new opportunities
 
+### 🚀 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎵 Lyra <sub>· iOS app</sub></h4>
+      <p>An iOS app that helps bands prepare songs faster, turning music into clear, playable charts with on-device intelligence.</p>
+      <p><sub>Swift · SwiftUI · Core ML</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 <a href="https://github.com/nenz24/SongStruct-Models">SongStruct-Models</a></h4>
+      <p>Research and tooling for music structure analysis, from data annotation and model training to deployment on mobile devices.</p>
+      <p><sub>Python · PyTorch · Core ML</sub></p>
+    </td>
+  </tr>
+</table>
+
 ### 🛠️ Tech stack
 
 **Mobile**<br/>
@@ -48,7 +65,7 @@ I'm a mobile developer from **Bali, Indonesia** who enjoys building clean, relia
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nenz24&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nenz24&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=nenz24&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0e75b6&text_color=8b949e" alt="Top languages" />
 </p>
 
