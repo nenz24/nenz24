@@ -76,7 +76,6 @@ I'm a mobile developer from **Bali, Indonesia** who enjoys building clean, relia
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nenz24&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=nenz24&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0e75b6&text_color=8b949e" alt="Top languages" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nenz24&hide_border=true&background=00000000&ring=0e75b6&fire=1fb6ff&currStreakLabel=0e75b6&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak" />
 </p>
